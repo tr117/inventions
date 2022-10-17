@@ -1,0 +1,6 @@
+A weboldal egy egyszerű szerkezetből állna, felül a cím, utána pár feltaláló az első sorban és a másik sorban mellettük a találmányuk.
+
+Amikor az egér rajta van a képükön, akkor az megjeleníti a nevüket, és ha a találmányon van rajta, akkor a találmány nevét.
+
+A weblap aljára tervezek egy kis játékot ami vagy bele van építve a webolapba, vagy letölthet.
+  Annyi a lényege, hogy kidob feltaláló neveket, és le kell írni a találmányuk nevét.

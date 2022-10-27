@@ -1,0 +1,19 @@
+Magyarország  V.M. , T.B.
+Németország P.I. , N.G.
+Anglia Sz.L
+Afrika (https://444.hu/2014/03/01/het-talalmany-amit-az-afrikaiak-adtak-nekunk)
+Japán N.R.
+Kínai T.K 
+Oroszország
+Franciaország S.A.
+Olaszország
+India S. B.
+Arab
+USA H.M.
+Kanada T.P.
+fejenként 5-5 találmány
+1 ország (nép) egy weblap (Az adott weblapról alweblapok leágaztathatók)
+Bootstrap
+menürendszer:home,országok (népek) nevei, játék N.R.
+home: egy összefoglalás a témáról N.R.
+1 feltaláló név nemzetiség - találmány név és ideje

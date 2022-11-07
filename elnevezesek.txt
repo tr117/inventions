@@ -1,6 +1,27 @@
-monogram:
-weblapfájl neve:
+monogram: T.B. | V.M.
+weblapfájl neve: hungary.html
 felhasznált egyéb kapcsolódó fájlok nevei:
+Biro lászlo.jpg
+David_schwarz.jpg
+Dennis_Gabor.jpg
+Goldmark Péter Károly.jpg
+Leo_Szilarg.jpg
+Rubik kocka.jpg
+Rubik_Ernő.jpg
+Színes televízió.jpg
+Telefonközpont, Telefonhírmondó.jpg
+Tivadar_Puskas.jpg
+albert.jpg
+c_vitamin.jpg
+cultura-schwarz-leghajo.jpg
+golyóstoll.jpg
+helikopter.jpg
+hologram.jpg
+jedik ányos.jpg
+kálmán.jpg
+nuke.jpg
+teller ede.jpg
+vilany motor.jpg
 ---------
 monogram:
 weblapfájl neve:

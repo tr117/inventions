@@ -6,3 +6,6 @@ monogram:
 weblapfájl neve:
 felhasznált egyéb kapcsolódó fájlok nevei:
 ----
+monogram:T.K
+weblapfájl neve:kinaifeltalalok.html
+felhasznált egyéb kapcsolódó fájlok nevei:

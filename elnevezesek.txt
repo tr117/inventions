@@ -10,6 +10,13 @@ monogram:T.K
 weblapfájl neve:kinaifeltalalok.html
 felhasznált egyéb kapcsolódó fájlok nevei:
 
+---------
+monogram:Sz.L.
+weblapfájl neve:angol.html angol.css
+felhasznált egyéb kapcsolódó fájlok nevei:
+
+
 monogram:N.G
 weblapfájl neve:németország.html
 felhasznált egyéb kapcsolódó fájlok nevei:német sör.html,gumimaci.html,Zöld hűtőszekrény.html,Bakelit lemezlejátszó.html,társasjáték.html
+

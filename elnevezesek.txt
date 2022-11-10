@@ -10,9 +10,14 @@ monogram:T.K
 weblapfájl neve:kinaifeltalalok.html
 felhasznált egyéb kapcsolódó fájlok nevei:
 ---------
+monogram:S.A
+weblapfájl neve:francia feltalalok.html
+felhasznált egyéb kapcsolódó fájlok nevei:kepek
+---------
 monogram:Sz.L.
 weblapfájl neve:angol.html angol.css
 felhasznált egyéb kapcsolódó fájlok nevei:
+
 ---------
 monogram:N.G
 weblapfájl neve:németország.html

@@ -5,18 +5,20 @@ felhasznált egyéb kapcsolódó fájlok nevei:
 monogram:SB
 weblapfájl neve:Indiai feltalálók.html
 felhasznált egyéb kapcsolódó fájlok nevei:Ajay Bhatt.jpg, 220px-Sake-Dean-Mohamed.jpg, Saalin Ali.jpg, JC-Bose.jpg
-----
+---------
 monogram:T.K
 weblapfájl neve:kinaifeltalalok.html
 felhasznált egyéb kapcsolódó fájlok nevei:
-
 ---------
 monogram:Sz.L.
 weblapfájl neve:angol.html angol.css
 felhasznált egyéb kapcsolódó fájlok nevei:
-
-
+---------
 monogram:N.G
 weblapfájl neve:németország.html
 felhasznált egyéb kapcsolódó fájlok nevei:német sör.html,gumimaci.html,Zöld hűtőszekrény.html,Bakelit lemezlejátszó.html,társasjáték.html
-
+---------
+monogram: T.P
+weblapfájl neve: kanadai talalmanyok.html
+felhasznált egyéb kapcsolódó fájlok nevei: kosarlabda.jpeg, telefon.jpg, villanykörte.jpg, mogyoróvaj.jpg, gramofon.jpg
+---------

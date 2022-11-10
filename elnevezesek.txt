@@ -1,0 +1,11 @@
+monogram:
+weblapfájl neve:
+felhasznált egyéb kapcsolódó fájlok nevei:
+---------
+monogram:SB
+weblapfájl neve:Indiai feltalálók.html
+felhasznált egyéb kapcsolódó fájlok nevei:Ajay Bhatt.jpg, 220px-Sake-Dean-Mohamed.jpg, Saalin Ali.jpg, JC-Bose.jpg
+----
+monogram:T.K
+weblapfájl neve:kinaifeltalalok.html
+felhasznált egyéb kapcsolódó fájlok nevei:

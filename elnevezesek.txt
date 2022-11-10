@@ -14,7 +14,7 @@ monogram:S.A
 weblapfájl neve:francia feltalalok.html
 felhasznált egyéb kapcsolódó fájlok nevei:kepek
 ---------
-monogram:Sz.L.
+monogram:Sz.L., P.P.
 weblapfájl neve:angol.html angol.css
 felhasznált egyéb kapcsolódó fájlok nevei:
 

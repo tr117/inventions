@@ -1,7 +1,29 @@
-monogram:
-weblapfájl neve:
+monogram: T.B. | V.M.
+weblapfájl neve: hungary.html
 felhasznált egyéb kapcsolódó fájlok nevei:
+Bíró_lászlo.jpg
+David_schwarz.jpg
+Dennis_Gabor.jpg
+Goldmark_Pétár_Károly.png
+Leo_Szilarg.jpg
+Rubik_kocka.jpg
+Rubik_Ernő.jpg
+Színes_televízió.jpg
+Telefonközpont_Telefonhírmondó.jpg
+Tivadar_Puskas.jpg
+albert.jpg
+c_vitamin.jpg
+cultura-schwarz-leghajo.jpg
+golyóstoll.png
+helikopter.jpg
+hologram.jpg
+jedlik_ányos.jpg
+kálmán.jpg
+nuke.jpg
+teller_ede.jpg
+villany_motor.jpg
 ---------
+
 monogram:SB
 weblapfájl neve:Indiai feltalálók.html
 felhasznált egyéb kapcsolódó fájlok nevei:Ajay Bhatt.jpg, 220px-Sake-Dean-Mohamed.jpg, Saalin Ali.jpg, JC-Bose.jpg
@@ -17,7 +39,6 @@ felhasznált egyéb kapcsolódó fájlok nevei:kepek
 monogram:Sz.L., P.P.
 weblapfájl neve:angol.html angol.css
 felhasznált egyéb kapcsolódó fájlok nevei:
-
 ---------
 monogram:N.G
 weblapfájl neve:németország.html
@@ -27,3 +48,4 @@ monogram: T.P
 weblapfájl neve: kanadai talalmanyok.html
 felhasznált egyéb kapcsolódó fájlok nevei: kosarlabda.jpeg, telefon.jpg, villanykörte.jpg, mogyoróvaj.jpg, gramofon.jpg
 ---------
+

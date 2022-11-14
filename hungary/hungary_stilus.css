@@ -10,13 +10,22 @@ body {
 
 .feltalalo {
     text-align: left;
-    width: 49%;
-    bottom: 0;
+    width: 50%;
     left: 0;
+    position: fixed;
+    z-index: 1;
 }
 
 .talalmany {
     text-align: right;
-    bottom: 0;
     left: 0;
+    z-index: 1;
+    width: -50%;
+    padding-top: 10px;
+}
+
+.feltalalo img {
+    padding-left: 300px;
+    height: 200px;
+    width: 500px;
 }

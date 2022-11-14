@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(194, 194, 194);
+  }
+  
+h1 {
+    color: rgb(0, 0, 27);
+    margin-left: 20px;
+  }
+
+  img {
+    float: left;
+  }

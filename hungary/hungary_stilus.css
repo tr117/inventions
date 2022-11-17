@@ -12,8 +12,9 @@ body {
     text-align: left;
     width: 50%;
     left: 0;
-    position: fixed;
     z-index: 1;
+    position: absolute;
+    padding-top: 10px;
 }
 
 .talalmany {
@@ -25,7 +26,25 @@ body {
 }
 
 .feltalalo img {
-    padding-left: 300px;
-    height: 200px;
+    padding-left: 50px;
+    height: 350px;
+    width: 500px;
+}
+
+.talalmany img {
+    padding-right: 50px;
+    height: 350px;
+    width: 500px;
+}
+
+#teller {
+    padding-left: 50px;
+    height: 175px;
+    width: 500px;
+}
+
+#leo {
+    padding-left: 50px;
+    height: 175px;
     width: 500px;
 }
